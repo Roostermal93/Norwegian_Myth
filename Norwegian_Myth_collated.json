@@ -1,8 +1,22 @@
 {
-    "count": 4,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "4f6191ca-4e81-4c6c-9b93-158e17fda0b2",
+            "collectionId": "Norwegian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Norwegian/4f6191ca-4e81-4c6c-9b93-158e17fda0b2_no_Male.mp4"
+        },
+        {
+            "id": "772c0977-50f1-4a46-9384-f9080802e8ac",
+            "collectionId": "Norwegian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Norwegian/772c0977-50f1-4a46-9384-f9080802e8ac_no_Male.mp4"
+        },
         {
             "id": "c86f629f-7239-4553-ac22-7bf613bb9ba4",
             "collectionId": "Norwegian",
@@ -30,6 +44,13 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Norwegian/62a1c630-f1cc-4945-b742-af79959a5198_no_Male.mp4"
+        },
+        {
+            "id": "4df6d2ed-e72a-4385-896f-d3c9783eaa8e",
+            "collectionId": "Norwegian",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Norwegian/4df6d2ed-e72a-4385-896f-d3c9783eaa8e_no_Male.mp4"
         }
     ]
 }
